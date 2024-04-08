@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
 // my frist changes and my daily work 
+// second chnages 
 
 namespace SmartHotel360.PublicWeb
 {

@@ -7,6 +7,8 @@ using Microsoft.Extensions.Options;
 using SmartHotel360.PublicWeb.Models.Settings;
 using SmartHotel360.PublicWeb.Services;
 
+// My second changes
+
 namespace SmartHotel360.PublicWeb
 {
     public class Startup
