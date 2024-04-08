@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+// my frist changes and my daily work 
+
 namespace SmartHotel360.PublicWeb
 {
     public class Program
